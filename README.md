@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @christineJadeAvila
 - 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Backend Development (Python: Django)
 - 📫 How to reach me ... email christinejadeavila05@gmail.com
