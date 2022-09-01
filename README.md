@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @christineJadeAvila
-- 🌱 I’m currently learning Backend Development (Python: Django)
+- 🌱 I’m currently learning OOP(Java)
