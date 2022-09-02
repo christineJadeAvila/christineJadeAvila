@@ -1,3 +1,9 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+  h1 {
+    font-family: 'Poppins';
+  }
+  
+</style>
 
-<h1 style="color:blue; font-family: Poppins;" > Christine Jade </h1>
+<h1> Christine Jade </h1>
