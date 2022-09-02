@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @christineJadeAvila
-- 🌱 I’m currently learning OOP(Java)
+<h1> Christine Jade </h1>
