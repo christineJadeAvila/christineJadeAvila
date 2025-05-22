@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins";
+}
+body header {
+  justify-items: center;
+}
+body header .myTitle {
+  font-weight: 200;
+  font-size: 30px;
+}
+body header .myName {
+  font-size: 100px;
+  font-weight: 500;
+  font-family: "EB Garamond", serif;
+  line-height: 40%;
+}
+body .body {
+  margin: 2rem;
+  margin-top: 200px;
+}
+body .body .sectionContainer .sectionTitle {
+  font-weight: 200;
+  font-size: 25px;
+}
+body .body .sectionContainer .contents {
+  display: flex;
+  flex-wrap: wrap;
+}
+body .body .sectionContainer .contents .content {
+  margin: 0.5rem;
+}
+body footer {
+  justify-items: center;
+  margin: 100px;
+}
+body footer .CTA {
+  background-color: white;
+  padding: 1rem;
+  font-family: "EB Garamond", serif;
+  font-weight: 400;
+  font-size: 50px;
+  border: none;
+  border-radius: 30px 1px;
+}
+
+/*# sourceMappingURL=styles.css.map */
